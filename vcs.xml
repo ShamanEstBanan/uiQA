@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/k-k-code/java-basics-SpikeCyrill.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AntonKurtsev/unit_2_2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
